@@ -1,0 +1,9 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+models/lora-output/
+data/*
+!data/.gitkeep
