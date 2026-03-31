@@ -7,3 +7,12 @@ __pycache__/
 models/lora-output/
 data/*
 !data/.gitkeep
+
+venv/
+__pycache__/
+.env
+*.pyc
+models/
+*.log
+install.log
+
